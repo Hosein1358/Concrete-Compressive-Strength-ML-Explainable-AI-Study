@@ -1,0 +1,9 @@
+pandas
+numpy
+seaborn
+matplotlib
+ucimlrepo
+scikit-learn
+tensorflow
+scikeras
+shap
